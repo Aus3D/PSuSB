@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PSU-USB.PrjPcb]
+   Generated File[psu-usb.TXT]
+   Generated File[psu-usb.LDP]
+   Generated File[psu-usb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:09:19 AM On 11/8/2015
